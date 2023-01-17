@@ -1,5 +1,4 @@
 //recursive mutex
-//hell
 #include <bits/stdc++.h>
 #include <mutex>
 #include <thread>
